@@ -82,24 +82,21 @@ stand-alone tools that record changes to a file or set of files over time
 
 
 ## local
+<i style="color: #189acb;" class="fas fa-caret-right"></i> e.g. <span style="color: #189acb;">`RCS`<span>
 
-a simple local database keeps all the changes to files under version control (e.g. <span style="color: #189acb;">`RCS`<span>)
-
-![local](images/local.png)<!-- .element: width="50%" -->
+![local](images/local.png)<!-- .element: width="54%" -->
 
 
 ## centralized
+<i style="color: #189acb;" class="fas fa-caret-right"></i> e.g. <span style="color: #189acb;">`SUBVERSION`<span>
 
-a single server contains all the versioned files, and a number of clients check out files from that central place (e.g. <span style="color: #189acb;">`SVN`<span>)
-
-![centralized](images/centralized.png)<!-- .element: width="60%" -->
+![centralized](images/centralized.png)<!-- .element: width="64%" -->
 
 
 ## distributed
+<i style="color: #189acb;" class="fas fa-caret-right"></i> e.g. <span style="color: #189acb;">`GIT`<span>
 
-clients fully mirror the repository, including its full history (e.g. <span style="color: #189acb;">`GIT`<span>)
-
-![distributed](images/distributed.png)<!-- .element: width="39%" -->
+![distributed](images/distributed.png)<!-- .element: width="43%" -->
 
 
 
