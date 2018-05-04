@@ -85,21 +85,21 @@ stand-alone tools that record changes to a file or set of files over time
 
 a simple local database keeps all the changes to files under version control (e.g. <span style="color: #189acb;">`RCS`<span>)
 
-![local](https://git-scm.com/book/en/v2/images/local.png)<!-- .element: width="50%" -->
+![local](images/local.png)<!-- .element: width="50%" -->
 
 
 ## centralized
 
 a single server contains all the versioned files, and a number of clients check out files from that central place (e.g. <span style="color: #189acb;">`SVN`<span>)
 
-![centralized](https://git-scm.com/book/en/v2/images/centralized.png)<!-- .element: width="60%" -->
+![centralized](images/centralized.png)<!-- .element: width="60%" -->
 
 
 ## distributed
 
 clients fully mirror the repository, including its full history (e.g. <span style="color: #189acb;">`GIT`<span>)
 
-![distributed](https://git-scm.com/book/en/v2/images/distributed.png)<!-- .element: width="40%" -->
+![distributed](images/distributed.png)<!-- .element: width="40%" -->
 
 
 
@@ -111,7 +111,7 @@ an **open source**, **distributed**, version control system
 <i style="color: #189acb;" class="fas fa-caret-right"></i> most used thanks to its simplicity and GitHub 
 
 
-![git-github](http://1.bp.blogspot.com/-WY2YpNr3W6g/UY6tZAc-H3I/AAAAAAAABLY/xJ9x3wIY8V8/s1600/Github2.png)
+![git-github](images/Github2.png)
 
 <i style="color: #189acb;" class="fas fa-caret-right"></i> GitHub is a web-based Git repository hosting service, which offers all the functionalities of Git as well as adding its own features
 
@@ -127,7 +127,7 @@ an **open source**, **distributed**, version control system
 
 ## Distributed
 
-![](https://cdn-images-1.medium.com/max/1600/0*zdujTe9ij27Ycbc8.png)<!-- .element: width="50%" -->
+![](images/svngit.png)<!-- .element: width="50%" -->
 
 
 ## Traditional model
@@ -152,22 +152,22 @@ Stream of snapshots
 - additional collaborative features
 
 
-[![GitHub](https://spin.atomicobject.com/wp-content/uploads/20171003153036/github-logo.png)<!-- .element width="40%" -->](https://github.com)
-[![BitBucket](https://sickrabbitstudios.com/community/wp-content/uploads/2017/05/bitbucket_rgb_darkblue_atlassian_1200x630.png)<!-- .element width="40%" -->](https://bitbucket.org)
-[![GitLab](https://cdn-images-1.medium.com/max/1600/1*FtYgYG_G6rplUmF5fLzuXA.png)<!-- .element width="40%" -->](https://gitlab.com/)
+[![GitHub](images/github-logo.png)<!-- .element width="40%" -->](https://github.com)
+[![BitBucket](images/bitbucket_rgb_darkblue_atlassian_1200x630.png)<!-- .element width="40%" -->](https://bitbucket.org)
+[![GitLab](images/gitlab.png)<!-- .element width="40%" -->](https://gitlab.com/)
 
 
 ## Git Clients
 
 
-[![git](https://cdn-images-1.medium.com/max/1600/1*QoR3rxWIbnf5wmF_IuAHqQ.png)<!-- .element width="35%" -->](https://git-scm.com/downloads)
+[![git](images/git.png)<!-- .element width="35%" -->](https://git-scm.com/downloads)
 
 <i style="color: #189acb;" class="fas fa-caret-right"></i> command line tool
 
 
-[![GitKraken](https://www.gitkraken.com/img/og-image.jpg)<!-- .element width="30%" -->](https://www.gitkraken.com/)
-[![SourceTree](https://www.sourcetreeapp.com/dam/jcr:f32681c1-355d-4806-b29c-319b0c6ecb06/Sourcetree-blue.svg?cdnVersion=kv)<!-- .element width="35%" -->](https://www.sourcetreeapp.com/)
-[![GitHub Desktop](https://desktop.github.com/images/desktop-icon.svg)<!-- .element width="20%" -->](https://desktop.github.com/)
+[![GitKraken](images/gitkraken.jpg)<!-- .element width="30%" -->](https://www.gitkraken.com/)
+[![SourceTree](images/Sourcetree-blue.svg)<!-- .element width="35%" -->](https://www.sourcetreeapp.com/)
+[![GitHub Desktop](images/github-desktop.svg)<!-- .element width="20%" -->](https://desktop.github.com/)
 
 <i style="color: #189acb;" class="fas fa-caret-right"></i> third party graphical user interface (GUI) tools
 
