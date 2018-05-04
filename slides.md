@@ -172,14 +172,14 @@ Stream of snapshots
 <i style="color: #189acb;" class="fas fa-caret-right"></i> third party graphical user interface (GUI) tools
 
 
-
-## Thank You
-
-
-
 ## References
 - https://git-scm.com/docs
 - https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 - https://git-scm.com/downloads/guis/
 - http://karthik.github.io/git_intro/
 - http://rogerdudler.github.io/git-guide/
+
+
+
+<!-- .slide: data-background-color="#000" -->
+## Demo 
