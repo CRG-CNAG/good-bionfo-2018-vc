@@ -99,7 +99,7 @@ a single server contains all the versioned files, and a number of clients check 
 
 clients fully mirror the repository, including its full history (e.g. <span style="color: #189acb;">`GIT`<span>)
 
-![distributed](images/distributed.png)<!-- .element: width="40%" -->
+![distributed](images/distributed.png)<!-- .element: width="39%" -->
 
 
 
@@ -183,3 +183,7 @@ Stream of snapshots
 
 <!-- .slide: data-background-color="#000" -->
 ## Demo 
+
+
+
+## Thank You
