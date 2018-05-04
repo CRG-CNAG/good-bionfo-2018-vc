@@ -11,6 +11,17 @@ May 7th, 2018 - CRG
 </small>
 
 
+## Objectives
+
+- learn what a version control system is and why it is important
+
+
+## Outcomes
+
+- learn the main terminology and commands of `Git` and apply them
+- create a `GitHub` repository
+
+
 
 ## What is version control?
 
