@@ -51,8 +51,8 @@ Save files as logical sets of changes and write a good description of why you ch
 
 - transparency
 - change history
-- recovery from errors/deletions
-- automatic backup
+- backup and restore
+- recovery from errors
 - easier collaborative work
 - reproducibility
 
@@ -80,9 +80,10 @@ stand-alone tools that record changes to a file or set of files over time
 
 - review changes made over time
 - revert files/the entire project back to a previous state
-- see who last modified something that might be a problem
+- see who last modified something
 - find out where and how things went wrong
 - remove content knowing that you can easily go back
+- sandboxing
 
 
 ## Quick history
