@@ -125,10 +125,10 @@ an **open source**, **distributed**, version control system
 <i style="color: #189acb;" class="fas fa-caret-right"></i> GitHub is a web-based Git repository hosting service, which offers all the functionalities of Git as well as adding its own features
 
 
-## Features
+## Git Features
 
-- snapshot based
 - nearly every operation is local
+- snapshot based
 - integrity, everything is checksummed
 - generally only adds data
 - every local repository is a backup
