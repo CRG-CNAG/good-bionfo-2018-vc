@@ -182,11 +182,11 @@ Stream of snapshots
 
 
 ## References
-- https://git-scm.com/docs
-- https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-- https://git-scm.com/downloads/guis/
-- http://karthik.github.io/git_intro/
-- http://rogerdudler.github.io/git-guide/
+- [Git Docs](https://git-scm.com/docs)
+- [Git Getting Started](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+- [Git GUI Clients](https://git-scm.com/downloads/guis/)
+- [Git Introduction for Scientists](http://karthik.github.io/git_intro/)
+- [Git Simple Visual Guide](http://rogerdudler.github.io/git-guide/)
 
 
 
