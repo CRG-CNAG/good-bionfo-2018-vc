@@ -26,7 +26,7 @@ May 7th, 2018 - CRG
 ## What is version control?
 
 
-management of multiple versions of computer documents, programs and other collections of information
+management of changes to documents, computer programs and other collections of information
 
 <i style="color: #189acb;" class="fas fa-caret-right"></i> **when**, **who**, **what**
 
