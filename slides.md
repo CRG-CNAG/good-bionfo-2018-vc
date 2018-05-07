@@ -26,7 +26,7 @@ May 7th, 2018 - CRG
 ## What is version control?
 
 
-a method to record changes to a file or set of files over time
+management of multiple versions of computer documents, programs and other collections of information
 
 <i style="color: #189acb;" class="fas fa-caret-right"></i> **when**, **who**, **what**
 
@@ -38,13 +38,6 @@ a method to record changes to a file or set of files over time
 
 
 <!-- .slide: data-background-image="images/phd052810s.gif" data-background-size="contain" -->
-
-
-## Basic concept
-
-Save files as logical sets of changes and write a good description of why you changed them 
-
-<i style="color: #189acb;" class="fas fa-caret-right"></i> `commit`
 
 
 ## Benefits
@@ -74,6 +67,13 @@ Save files as logical sets of changes and write a good description of why you ch
 stand-alone tools that record changes to a file or set of files over time
 
 <i style="color: #189acb;" class="fas fa-caret-right"></i> often referred to as **VCSs**
+
+
+## Basic concept
+
+Save files as logical sets of changes and write a good description of why you changed them 
+
+<i style="color: #189acb;" class="fas fa-caret-right"></i> `commit`
 
 
 ## What you can do
