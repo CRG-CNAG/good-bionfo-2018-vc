@@ -128,15 +128,9 @@ an **open source**, **distributed**, version control system
 ## Git Features
 
 - nearly every operation is local
-- snapshot based
 - integrity, everything is checksummed
 - generally only adds data
 - every local repository is a backup
-
-
-## Distributed
-
-![](images/svngit.png)<!-- .element: width="50%" -->
 
 
 ## Traditional model
@@ -151,6 +145,9 @@ Delta based
 ![deltas](images/snapshots.png)
 
 Stream of snapshots
+
+
+![](images/svngit.png)<!-- .element: width="50%" -->
 
 
 ## Git hosting services
