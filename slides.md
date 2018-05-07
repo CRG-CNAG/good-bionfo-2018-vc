@@ -71,9 +71,9 @@ stand-alone tools that record changes to a file or set of files over time
 
 ## Basic concept
 
-Save files as logical sets of changes and write a good description of why you changed them 
-
 <i style="color: #189acb;" class="fas fa-caret-right"></i> `commit`
+
+Save files as logical sets of changes and write a good description of why you changed them 
 
 
 ## What you can do
